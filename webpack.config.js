@@ -19,7 +19,7 @@ module.exports = {
       loaders: ["style", "css", "sass"]
     }, {
       test: /\.svg$/,
-      loader: ‘file’
+      loader: 'file'
     }]
   },
   plugins: [
